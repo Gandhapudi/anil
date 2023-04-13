@@ -11,7 +11,7 @@ function output(){
     }
     for (let i=1;i<sum;i++){
         if(i%4==0 && i%5==0){
-           d+=" Fizz Buzz"
+           d+=" FizzBuzz"
         }
         else if(i%4==0){
             d+=" Fizz"
